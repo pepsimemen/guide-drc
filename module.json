@@ -1,7 +1,9 @@
 {
-	"disableAutoUpdate": false,
-	"options": {
-		"niceName": "DRC-Guide"
-	},
-	"servers": ["https://raw.githubusercontent.com/teralove/drc-guide/master/"]
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "DRC-Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/pepsimemen/guide-drc/master/"],
+    "name": "drc-guide",
+    "description": "Dark Reach Citadel Guide."
 }
